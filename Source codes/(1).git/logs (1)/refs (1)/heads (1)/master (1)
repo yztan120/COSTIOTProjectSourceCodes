@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 f692518f8375fc9f649c81234d2b269b0b7ec38e root <root@kali.(none)> 1626170477 -0400	clone: from https://github.com/slashfentry01/iotsec.git
+f692518f8375fc9f649c81234d2b269b0b7ec38e c5251f0dddc0ae358517578f7d8e7e47d31e4941 Yusuf <slashfentry@gmail.com> 1626171577 -0400	commit: EmulateGPIO fix
+c5251f0dddc0ae358517578f7d8e7e47d31e4941 c4d6d744b9163dcccc1c954fe173c8e7c0ac0f08 Yusuf <slashfentry@gmail.com> 1626177334 -0400	commit: Sensor + MQTT Listener Done
+c4d6d744b9163dcccc1c954fe173c8e7c0ac0f08 63334b6cd46e11dcdc596c6fc4a55f3d2ff491db Yusuf <slashfentry@gmail.com> 1626965735 -0400	commit: add telegram bot
+63334b6cd46e11dcdc596c6fc4a55f3d2ff491db c894397327cb109e20c0cc344e32f2fe6e0cda72 Yusuf <slashfentry@gmail.com> 1627562206 -0400	commit: add tv.py
+c894397327cb109e20c0cc344e32f2fe6e0cda72 f1cedb0c65ac7c6bacf10d9177caedfd3747d86a Yusuf <slashfentry@gmail.com> 1627563846 -0400	commit: code tv.py
+f1cedb0c65ac7c6bacf10d9177caedfd3747d86a f47379937a8525287a9dc4ffc83ccf59fc1672a7 Yusuf <slashfentry@gmail.com> 1628003495 -0400	commit: frontend + db

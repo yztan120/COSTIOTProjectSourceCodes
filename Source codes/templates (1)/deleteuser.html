@@ -1,0 +1,17 @@
+<! DOCTYPE html>
+<html>
+ <head></head>
+  <body>
+    <div class="container">
+      <h1>Delete Account</h1>
+      <br>
+      <form action="" method="post">
+        <p>Confirm deletion of account? <b>This cannot be undone!</b></p>
+        <input class="btn btn-default" type="submit" value="Delete">
+      </form>
+      {% if error %}
+        <p class="error"><strong>Error:</strong> {{ error }}
+      {% endif %}
+    </div>
+  </body>
+</html>
